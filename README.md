@@ -1,3 +1,3 @@
-# wp-theme-simplewhite
+# whitethings-wp
 
 wordpressサイトをテーマから自作しました。
