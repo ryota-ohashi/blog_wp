@@ -1,3 +1,2 @@
-# whitethings-wp
-
-wordpressサイトをテーマから自作しました。
+# blog-wp
+ブログ構成のwordpress
